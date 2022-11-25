@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("Test Gitee push");
         System.out.println("Test Gitee edit online");
         System.out.println("Test GitHub push");
+        System.out.println("Test GiHub edit online");
     }
 }
